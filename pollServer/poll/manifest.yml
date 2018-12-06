@@ -1,0 +1,5 @@
+applications:
+- name: poll2
+  command: sh run.sh
+  memory: 128M
+  instances: 1
